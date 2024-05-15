@@ -44,9 +44,9 @@ const Navbar = ({ toggle }: { toggle: () => void }) => {
                 </Link>
               </li>
               <li>
-                {/* <Link href="newpage">
-                  <p>New Page</p>
-                </Link> */}
+                <Link href="weatherapp">
+                  <p>Weather App</p>
+                </Link>
               </li>
             </ul>
             <div className="hidden md:block">

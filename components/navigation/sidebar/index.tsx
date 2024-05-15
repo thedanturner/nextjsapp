@@ -48,7 +48,7 @@ const Sidebar = ({
             </Link>
           </li>
           <li>
-            <Link href="/newpage" onClick={toggle}>
+            <Link href="/weatherapp" onClick={toggle}>
               <p>New Page</p>
             </Link>
           </li>
