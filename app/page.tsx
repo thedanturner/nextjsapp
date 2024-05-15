@@ -8,7 +8,7 @@ const Home = () => {
   return (
     <>
       <div className="container mx-auto px-4 text-center pt-10">
-        <h1>Dan's Test App</h1>
+        <h1>Dan&apos;s Test App</h1>
         <p>Sample App Built Using NextJS</p>
         <br></br>
         <div className="flex justify-center">
