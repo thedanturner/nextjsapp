@@ -15,7 +15,7 @@ const newpage = () => {
           backgroundPosition: "center",
           backgroundColor: "white",
           width: "100vw",
-          height: "50vh"
+          height: "100vh"
         }}
       />
         <h1>Microsoft 365 Copilot</h1>
