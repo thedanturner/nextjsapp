@@ -1,5 +1,4 @@
 import { Metadata } from "next";
-import Image from "next/image";
 
 
 export const metadata:Metadata = {
@@ -8,18 +7,18 @@ export const metadata:Metadata = {
 
 const newpage = () => {
   return (
-      <div className="justify-center text-center pt-1 bg-black text-white">
+      <div className="justify-center text-center pt-1 bg-white text-black">
       <div
         style={{
           backgroundImage: `url(/images/copilot-logo.png)`,
           backgroundRepeat: "repeat",
           backgroundPosition: "center",
-          backgroundColor: "grey",
+          backgroundColor: "white",
           width: "100vw",
           height: "50vh"
         }}
       />
-        <div>Microsoft 365 Copilot</div>
+        <h1>Microsoft 365 Copilot</h1>
       </div>
       
 
