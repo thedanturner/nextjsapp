@@ -44,8 +44,8 @@ const Navbar = ({ toggle }: { toggle: () => void }) => {
                 </Link>
               </li>
               <li>
-                <Link href="weatherapp">
-                  <p>Weather App</p>
+                <Link href="newpage">
+                  <p>New Page</p>
                 </Link>
               </li>
             </ul>

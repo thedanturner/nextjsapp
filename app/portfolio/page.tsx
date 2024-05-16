@@ -4,7 +4,7 @@ export const metadata:Metadata = {
   title: 'Portfolio',
 };
 
-const Services = () => {
+const portfolio = () => {
   return (
   <div className="container mx-auto text-center">
     <div className="mx-auto grid grid-cols-4 gap-4 justify-center text-center pt-40">
@@ -23,4 +23,4 @@ const Services = () => {
   );
 }
 
-export default Services;
+export default portfolio;
